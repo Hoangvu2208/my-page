@@ -1,0 +1,32 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my_portfolio",
+  "author": "Hoangvu2208",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.41.2",
+    "@react-three/fiber": "^8.9.1",
+    "gatsby": "^5.0.0",
+    "gatsby-plugin-image": "^3.0.0",
+    "gatsby-plugin-sass": "^6.0.0",
+    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-plugin-sitemap": "^6.0.0",
+    "gatsby-source-filesystem": "^5.0.0",
+    "gatsby-transformer-sharp": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.146.0",
+    "three-stdlib": "^2.19.0"
+  }
+}
